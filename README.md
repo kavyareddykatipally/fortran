@@ -17,3 +17,5 @@ norm_error.f90 file contains fortran code to calculate normalized error value be
 norm_error.py has python code to plot histogram of normalized errors.
 
 norm_error.png is the plotted histogram of errors.
+
+![image](https://user-images.githubusercontent.com/32735211/83162787-861cca00-a10a-11ea-8fd3-7e107249ff59.png)
